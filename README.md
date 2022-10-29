@@ -11,6 +11,12 @@
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=kennyfh&style=flat-square&color=blue" alt=""/>
+  
+  <h3>
+  Hi everyone
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, my name is Kenny
+  </h3>
+  
   </div>
   
 ### :man_technologist: About Me :
@@ -35,6 +41,7 @@
 </div>
 
 ---
+### :fire: My stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennyfh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
