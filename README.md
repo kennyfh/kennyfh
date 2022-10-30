@@ -21,8 +21,9 @@
   
 ### :man_technologist: About Me :
 - :books: Master's Degree in Logic, Computer Science and AI student
-- :telescope: Interested in Data Science, Big Data & Cloud Computing
-- :zap: In my free time I like to play sports
+- :telescope: Interested in Data Science, Big Data and Cloud Computing
+- :seedling: I'm currently learning Julia, Elm and Azure
+- :zap: In my free time I love to do Kung fu
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kenny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kennyfh/)
   
 
