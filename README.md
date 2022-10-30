@@ -24,7 +24,10 @@
 - :telescope: Interested in Data Science, Big Data and Cloud Computing
 - :seedling: I'm currently learning Julia, Elm and Azure
 - :zap: In my free time I love to do Kung fu
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kenny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kennyfh/)
+- :speech_balloon: You can ask me about any topic
+
+### Talk with me:
+[![Linkedin Badge](https://img.shields.io/badge/-Kenny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kennyfh/)
   
 
 ---
@@ -39,11 +42,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  
 </div>
 
 ---
-### :fire: My stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennyfh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<details>
+  <summary>:fire: GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyfh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Anna's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=kennyfh&theme=dark&date_format=j%20M%5B%20Y%5D)" />
+</details>
+
+<details>
+  <summary>:fire:  Most Used Languages</summary>
+
+  <img align="left" alt="Kenny's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyfh&layout=compact&theme=vision-friendly-dark)" />
+</details>
