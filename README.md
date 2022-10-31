@@ -23,7 +23,7 @@
 - :books: Master's Degree in Logic, Computer Science and AI student
 - :telescope: Interested in Data Science, Big Data and Cloud Computing
 - :seedling: I'm currently learning Julia, Elm and Azure
-- :zap: In my free time I love to do Kung fu
+- :zap: In my free time I love to do Kung fu and read books
 - :speech_balloon: You can ask me about any topic
 
 ### Talk with me:
