@@ -49,10 +49,10 @@
 
 ---
 
-### :fire: GitHub Stats
+<!-- ### :fire: GitHub Stats
 
   <img alt="Kenny's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=kennyfh&theme=dark&date_format=j%20M%5B%20Y%5D)" />
- 
+  -->
 
 ### :fire:  Most Used Languages</summary>
 
