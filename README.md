@@ -49,12 +49,16 @@
 
 ---
 
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=kennyfh&theme=vue-dark&show_icons=true&hide=stars&count_private=true" alt="Stats" align="left" />
+
 <!-- ### :fire: GitHub Stats
 
   <img alt="Kenny's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=kennyfh&theme=dark&date_format=j%20M%5B%20Y%5D)" />
   -->
 
-### :fire:  Most Used Languages</summary>
+<!-- ### :fire:  Most Used Languages</summary>
 
   <img alt="Kenny's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennyfh&layout=compact&theme=vision-friendly-dark)" />
-
+ -->
