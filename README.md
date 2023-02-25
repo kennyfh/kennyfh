@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 - :books: Master's Degree in Logic, Computer Science and AI student
 - :telescope: Interested in Data Science, Big Data and Cloud Computing
-- :seedling: I'm currently learning Julia, Deep Learning and Azure
+- :seedling: I'm currently learning Deep Learning and Azure
 - :zap: In my free time I love to do Kung fu and read books
 - :speech_balloon: You can ask me about any topic
 
